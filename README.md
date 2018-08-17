@@ -13,4 +13,4 @@ Features:<br />
 
 
 
---Thanks to Vivek V. for sharing his project details.
+--Thanks to Vivek V. for sharing your project details.
