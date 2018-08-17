@@ -1,1 +1,0 @@
-"# Automated-Gardening-System" 
